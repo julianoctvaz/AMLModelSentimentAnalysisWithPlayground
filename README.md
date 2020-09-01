@@ -1,6 +1,6 @@
 # AnMLModelSentimentAnalysisWithPlayground
 
-An sentiment analyses with plaground that has 3 labels, negative, neutral, and positive.
+A sentiment analyses with plaground that has 3 labels, negative, neutral, and positive.
 
 # SentimentAnalysis
 
