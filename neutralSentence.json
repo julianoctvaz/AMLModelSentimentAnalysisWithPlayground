@@ -1,0 +1,5633 @@
+
+    {
+        "text": "You're speaking/talking to her.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak to Mr Gates.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's not here right now.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's in a meeting right now.",
+        "label": "neutral"
+    },
+    {
+        "text": "You've just missed him.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's just stepped out.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's out on his lunch break right now Would you like to leave a message.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's not available right now Can I take a message.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you know when he will be back.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm sorry I don't know.",
+        "label": "neutral"
+    },
+    {
+        "text": "He should be back in 20 minutes.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have any idea where he is.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's at work right now Do you want his phone number.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I leave a message.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes Go ahead  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Of course Hold on for just a second so I can grab a pen and paper.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure  if you can excuse me for just a second Let me find a piece of paper to write it",
+        "label": "neutral"
+    },
+    {
+        "text": "When he comes back  can you have him call me at (2 0 6) 5 5 5 1 2 1 2.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can you repeat again  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "(Say) Again  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I leave a message.",
+        "label": "neutral"
+    },
+    {
+        "text": "You know what My English is not that great  and I don't want to miss anything Would you",
+        "label": "neutral"
+    },
+    {
+        "text": "mind calling back later I'm sorry.",
+        "label": "neutral"
+    },
+    {
+        "text": "If you don't mind  could you please call back and leave a message on the answering machine ",
+        "label": "neutral"
+    },
+    {
+        "text": "My English is not very good.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is Brandon there Brandon.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  he is  One moment  please.",
+        "label": "neutral"
+    },
+    {
+        "text": " Let me see if he's here Hang on OK.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I speak to Alexander Walker.",
+        "label": "neutral"
+    },
+    {
+        "text": "Alexander Walker I'm sorry  but there's nobody here by this name.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm sorry I'm afraid you've got the wrong number.",
+        "label": "neutral"
+    },
+    {
+        "text": "What number did you dial.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can you put Daisy back on I forgot to tell her something.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure I'll go get her.",
+        "label": "neutral"
+    },
+    {
+        "text": "No I got the answering machine.",
+        "label": "neutral"
+    },
+    {
+        "text": "I got the busy signals.",
+        "label": "neutral"
+    },
+    {
+        "text": "Paul  can you answer the phone I'm busy Paul.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can you get it  Paul My hands are tied Paul.",
+        "label": "neutral"
+    },
+    {
+        "text": "No one He hung up on me.",
+        "label": "neutral"
+    },
+    {
+        "text": "Wrong number  I guess He hung up without saying a word.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi This is Abby I'm not home right now Please leave a message.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi This is 555-5555 We're not here Please leave your message Thank you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi This is Brenda I can't come to the phone at this time Please leave a message and I'll",
+        "label": "neutral"
+    },
+    {
+        "text": "call you back as soon as possible.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi  this is Aaron I'm either away from my desk  or on the phone Please leave a message",
+        "label": "neutral"
+    },
+    {
+        "text": "and I'll get right back to you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi  this is Ivy Sorry I missed you Please leave a message at the tone I'll get back to",
+        "label": "neutral"
+    },
+    {
+        "text": "you when I get in Thanks.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are you Peter Smith.",
+        "label": "neutral"
+    },
+    {
+        "text": "Fine  thanks And you.",
+        "label": "neutral"
+    },
+    {
+        "text": "She is very well  thank you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good afternoon  I'm Peter.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are you Bill Jones.",
+        "label": "neutral"
+    },
+    {
+        "text": "She's very well thank you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good afternoon Mr Green.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good evening Mrs Brown.",
+        "label": "neutral"
+    },
+    {
+        "text": "How are you this evening.",
+        "label": "neutral"
+    },
+    {
+        "text": "Pull out chairs to seat the women when you are eating together.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do not sit down before all the ladies are seated.",
+        "label": "neutral"
+    },
+    {
+        "text": "Pull your chair up and sit close to the table after sitting down.",
+        "label": "neutral"
+    },
+    {
+        "text": "It is customary to say grace before the meal begins in many Christian homes Watch the",
+        "label": "neutral"
+    },
+    {
+        "text": "host or hostess If they bow their heads  join them.",
+        "label": "neutral"
+    },
+    {
+        "text": "When the hostess takes her napkin  open your napkin in half and lay it across your lap.",
+        "label": "neutral"
+    },
+    {
+        "text": "When eating with silverware  begin from the outside piece  then knife and fork for the",
+        "label": "neutral"
+    },
+    {
+        "text": "second course and so on The pieces closest to the plate are for the last course.",
+        "label": "neutral"
+    },
+    {
+        "text": "When having soup  move the spoon away from you to spoon out the soup When a little remains ",
+        "label": "neutral"
+    },
+    {
+        "text": "you may raise slightly the side of the bowl close to you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Cut large pieces of food  such as steak or chops  into small pieces all at one time.",
+        "label": "neutral"
+    },
+    {
+        "text": "Use you knife close to the fork This way  it is a lot easier to cut meat.",
+        "label": "neutral"
+    },
+    {
+        "text": "Put your knife and fork diagonally on the further side of the plate when you have finished",
+        "label": "neutral"
+    },
+    {
+        "text": "eating something Do not place them leaning on the plate The knife should always be placed",
+        "label": "neutral"
+    },
+    {
+        "text": "You can choose whichever you like.",
+        "label": "neutral"
+    },
+    {
+        "text": "She must be a model  isn't.",
+        "label": "neutral"
+    },
+    {
+        "text": "I really don't known.",
+        "label": "neutral"
+    },
+    {
+        "text": "I have no idea about it.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can she be a driver.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I have your name.",
+        "label": "neutral"
+    },
+    {
+        "text": "What's your family name.",
+        "label": "neutral"
+    },
+    {
+        "text": "My family name is Ayneswonth.",
+        "label": "neutral"
+    },
+    {
+        "text": "How do you spell it.",
+        "label": "neutral"
+    },
+    {
+        "text": "Who is the lady in white.",
+        "label": "neutral"
+    },
+    {
+        "text": "Could you introduce me to her.",
+        "label": "neutral"
+    },
+    {
+        "text": "Rose  let me introduce my friend to you.",
+        "label": "neutral"
+    },
+    {
+        "text": "This is Tom He's my classmate.",
+        "label": "neutral"
+    },
+    {
+        "text": "Nice to meet you  too.",
+        "label": "neutral"
+    },
+    {
+        "text": "Let me introduce myself.",
+        "label": "neutral"
+    },
+    {
+        "text": "What day is it today.",
+        "label": "neutral"
+    },
+    {
+        "text": "What's the date today.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's January the 15th  1999.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's the year of 1999.",
+        "label": "neutral"
+    },
+    {
+        "text": "What will you do during this weekend.",
+        "label": "neutral"
+    },
+    {
+        "text": "Does the shop open at 9 am on weekdays.",
+        "label": "neutral"
+    },
+    {
+        "text": "It opens at 8 am on weekdays  but at 9 at weekends.",
+        "label": "neutral"
+    },
+    {
+        "text": "What will you do the day after on next.",
+        "label": "neutral"
+    },
+    {
+        "text": "What did you do the week before last.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll work for the next 5 days.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's been 5 years since I last saw you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have a computer.",
+        "label": "neutral"
+    },
+    {
+        "text": "He has that book  doesn't he.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have any brothers or sisters.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I'm a single son.",
+        "label": "neutral"
+    },
+    {
+        "text": "Does your computer have a modem.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have shampoo here.",
+        "label": "neutral"
+    },
+    {
+        "text": "What a beautiful garden you have.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have glue I need some here.",
+        "label": "neutral"
+    },
+    {
+        "text": "If you have more  please give me some.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have my pencil.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I have your eraser  too.",
+        "label": "neutral"
+    },
+    {
+        "text": "What time is it now.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's a quarter past five.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's ten minutes to four.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's half past nine.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's one o'clock sharp.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's not four o'clock.",
+        "label": "neutral"
+    },
+    {
+        "text": "My watch says two o'clock.",
+        "label": "neutral"
+    },
+    {
+        "text": "My watch is two minutes fast.",
+        "label": "neutral"
+    },
+    {
+        "text": "What's the time by your watch.",
+        "label": "neutral"
+    },
+    {
+        "text": "We must arrive there on time.",
+        "label": "neutral"
+    },
+    {
+        "text": "There are only two minutes left.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can you finish your work ahead of time.",
+        "label": "neutral"
+    },
+    {
+        "text": "The flight is delayed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The meeting is put off.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll be back in 5 days.",
+        "label": "neutral"
+    },
+    {
+        "text": "What's the date today.",
+        "label": "neutral"
+    },
+    {
+        "text": "I was born on September 1st  1976.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll meet you tomorrow.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you know the exact date.",
+        "label": "neutral"
+    },
+    {
+        "text": "Please check the date.",
+        "label": "neutral"
+    },
+    {
+        "text": "How long will the sale last.",
+        "label": "neutral"
+    },
+    {
+        "text": "What were you doing this time last year.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello Can I see Mr  Green.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have an appointment.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  Mr Green can't see you now.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you wait here for a minute.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you like something to drink.",
+        "label": "neutral"
+    },
+    {
+        "text": "Mr Green  Mr Smith is here.",
+        "label": "neutral"
+    },
+    {
+        "text": "Nice to see you  my old friend.",
+        "label": "neutral"
+    },
+    {
+        "text": "How have you been these years.",
+        "label": "neutral"
+    },
+    {
+        "text": "You've changed little.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you still remember that Christmas.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you speak English.",
+        "label": "neutral"
+    },
+    {
+        "text": "How long have you studied English.",
+        "label": "neutral"
+    },
+    {
+        "text": "He speaks English fluently.",
+        "label": "neutral"
+    },
+    {
+        "text": "Your English is very good.",
+        "label": "neutral"
+    },
+    {
+        "text": "You speak English pretty well.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are you a native speaker of English.",
+        "label": "neutral"
+    },
+    {
+        "text": "My native language is Chinese.",
+        "label": "neutral"
+    },
+    {
+        "text": "He speaks with London accent.",
+        "label": "neutral"
+    },
+    {
+        "text": "He has a strong accent.",
+        "label": "neutral"
+    },
+    {
+        "text": "I have some difficulty in expressing myself.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can you write in English.",
+        "label": "neutral"
+    },
+    {
+        "text": "Your pronunciation is excellent.",
+        "label": "neutral"
+    },
+    {
+        "text": "How can I improve my spoken English.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are you watching TV now.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I'm watching Channel 5.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I'm listening to the radio.",
+        "label": "neutral"
+    },
+    {
+        "text": "Where are you going.",
+        "label": "neutral"
+    },
+    {
+        "text": "Who are you writing to.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm writing to an old friend.",
+        "label": "neutral"
+    },
+    {
+        "text": "What will you do this weekend.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll go to a concert.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll go on an outing with some friends.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you like traveling.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I like it a great deal/it very much.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm twenty-two (years old).",
+        "label": "neutral"
+    },
+    {
+        "text": "Mr Smith is still in his forties.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm two years younger than my sister.",
+        "label": "neutral"
+    },
+    {
+        "text": "My elder sister is one year older than her husband.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's the youngest in the family.",
+        "label": "neutral"
+    },
+    {
+        "text": "He looks much younger than he is.",
+        "label": "neutral"
+    },
+    {
+        "text": "I came here when I was 20.",
+        "label": "neutral"
+    },
+    {
+        "text": "I started school at the age of 6.",
+        "label": "neutral"
+    },
+    {
+        "text": "My father is over 60 years old.",
+        "label": "neutral"
+    },
+    {
+        "text": "Most of them are less than 30.",
+        "label": "neutral"
+    },
+    {
+        "text": "I guess he's about 30.",
+        "label": "neutral"
+    },
+    {
+        "text": "She's going to be 15 next month.",
+        "label": "neutral"
+    },
+    {
+        "text": "They'll have a party for their 10th wedding anniversary.",
+        "label": "neutral"
+    },
+    {
+        "text": "He's still a boy after all.",
+        "label": "neutral"
+    },
+    {
+        "text": "When do you get up everyday.",
+        "label": "neutral"
+    },
+    {
+        "text": "I usually get up at 8 o'clock.",
+        "label": "neutral"
+    },
+    {
+        "text": "Where do you have your lunch.",
+        "label": "neutral"
+    },
+    {
+        "text": "I have my lunch in a snack bar nearby.",
+        "label": "neutral"
+    },
+    {
+        "text": "What did you have for lunch.",
+        "label": "neutral"
+    },
+    {
+        "text": "I had a hamburger and a fried chicken leg.",
+        "label": "neutral"
+    },
+    {
+        "text": "What time do you start work.",
+        "label": "neutral"
+    },
+    {
+        "text": "I start work at 8 o'clock.",
+        "label": "neutral"
+    },
+    {
+        "text": "What do you do at work.",
+        "label": "neutral"
+    },
+    {
+        "text": "I answer telephones and do some typing.",
+        "label": "neutral"
+    },
+    {
+        "text": "What time do you finish your work.",
+        "label": "neutral"
+    },
+    {
+        "text": "What do you do in your spare time.",
+        "label": "neutral"
+    },
+    {
+        "text": "I like listening to pop music.",
+        "label": "neutral"
+    },
+    {
+        "text": "I like playing football.",
+        "label": "neutral"
+    },
+    {
+        "text": "When did you get up yesterday morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "I heard the clock  but I didn't get up until 9.",
+        "label": "neutral"
+    },
+    {
+        "text": "I woke up seven and got up right away.",
+        "label": "neutral"
+    },
+    {
+        "text": "I hurried to my office.",
+        "label": "neutral"
+    },
+    {
+        "text": "I had my breakfast on the way.",
+        "label": "neutral"
+    },
+    {
+        "text": "I was 10 minutes late.",
+        "label": "neutral"
+    },
+    {
+        "text": "I had lunch with a friend of mine.",
+        "label": "neutral"
+    },
+    {
+        "text": "I finished my work at 6 p m.",
+        "label": "neutral"
+    },
+    {
+        "text": "I stayed and did some extra work.",
+        "label": "neutral"
+    },
+    {
+        "text": "The TV programs were really boring  so I went to bed very early.",
+        "label": "neutral"
+    },
+    {
+        "text": "I read a magazine in bed.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't sleep well.",
+        "label": "neutral"
+    },
+    {
+        "text": "I slept soundly all night.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi  Joe  is it really you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi  Ann Nice to see you again.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's been a whole year since I last saw you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  but you look as pretty now  as you did then.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  thank you How have you been these days.",
+        "label": "neutral"
+    },
+    {
+        "text": "But you sound so sad.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I lost my pet cat yesterday.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  I'm sorry to hear that.",
+        "label": "neutral"
+    },
+    {
+        "text": "Have you seen Kate lately.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I have no contact with her.",
+        "label": "neutral"
+    },
+    {
+        "text": "I heard she got married last week.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  how nice Sorry  I've got to go now.",
+        "label": "neutral"
+    },
+    {
+        "text": "So do I See you later Keep in touch.",
+        "label": "neutral"
+    },
+    {
+        "text": "I used to take a walk in the early morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "He used to live in my neighborhood.",
+        "label": "neutral"
+    },
+    {
+        "text": "Did you use to go fishing with friends.",
+        "label": "neutral"
+    },
+    {
+        "text": "We have known each other for 6 years.",
+        "label": "neutral"
+    },
+    {
+        "text": "It has been a long time since last came here.",
+        "label": "neutral"
+    },
+    {
+        "text": "Have you seen Mr Smith recently.",
+        "label": "neutral"
+    },
+    {
+        "text": "They've been working on this project since last year.",
+        "label": "neutral"
+    },
+    {
+        "text": "I've been watching TV all night.",
+        "label": "neutral"
+    },
+    {
+        "text": "The movie began as soon as we got there.",
+        "label": "neutral"
+    },
+    {
+        "text": "When I arrived at the station  the train had already left.",
+        "label": "neutral"
+    },
+    {
+        "text": "The late arrival of the ship had messed up all our plans.",
+        "label": "neutral"
+    },
+    {
+        "text": "I had thought he knew the time of the meeting.",
+        "label": "neutral"
+    },
+    {
+        "text": "They had excepted me to go with them.",
+        "label": "neutral"
+    },
+    {
+        "text": "That was the third time that I had visited the place.",
+        "label": "neutral"
+    },
+    {
+        "text": "After I had finished my paper  I put it in the drawer.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Hi  Jack  where do you live now.",
+        "label": "neutral"
+    },
+    {
+        "text": " I live at 203 Curzon Street.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Curzon Street Isn't Mary living there.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Yes  she lives just across the street.",
+        "label": "neutral"
+    },
+    {
+        "text": " How long have you stayed there.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How about Mary How long has she lived there.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She's been living there since her birth.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Will you stay there for long.",
+        "label": "neutral"
+    },
+    {
+        "text": "  No  I'll move to Hollywood next month.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's the height of the building.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How much does the elephant weight.",
+        "label": "neutral"
+    },
+    {
+        "text": " What's the color of your new dress.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's the size of your shoes.",
+        "label": "neutral"
+    },
+    {
+        "text": "  My brother is twice as tall as your sister.",
+        "label": "neutral"
+    },
+    {
+        "text": "  My grandma is 40 years older than me.",
+        "label": "neutral"
+    },
+    {
+        "text": "  This river is one third as long as that river.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's the shape of your balloon.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How wide is this bridge.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How thick is the ice here.",
+        "label": "neutral"
+    },
+    {
+        "text": "  This metal is harder than that one.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He can run as fast as Jim.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Kate is smarter than I.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How long do you watch TV every day.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How often do you go swimming.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Would you please open the door for me.",
+        "label": "neutral"
+    },
+    {
+        "text": "  May I ask you a question.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Please give me a hand.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Could you do me a favor.",
+        "label": "neutral"
+    },
+    {
+        "text": " Would you help me remove the refrigerator.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Get me my coat  please.",
+        "label": "neutral"
+    },
+    {
+        "text": " Make me a cup of coffee  will you.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Call me tomorrow if you have time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Could you tell me where I can find these books.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm sorry I'm engaged now.",
+        "label": "neutral"
+    },
+    {
+        "text": " I'm glad to  but I'm afraid I don't have the time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Would you mind closing the window for me.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Excuse me  madam Could you tell me where the post office is.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It's just around the corner.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Excuse me  how can I get to the bus station.",
+        "label": "neutral"
+    },
+    {
+        "text": " You can take the bus and get off at the second stop.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Excuse me  Where is No 5 Street.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Go straight ahead and turn left at the second crossing.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Excuse me Can you tell me how to get to Mr Hu's restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Go on for about 100 meters  It's on your left side  You can't miss it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Which one is Mr Jame's office.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It's Room 201 on the second floor.",
+        "label": "neutral"
+    },
+    {
+        "text": " Can I use the lift.",
+        "label": "neutral"
+    },
+    {
+        "text": " Sorry  it's broken You have to use the stairs.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Where are the stairs.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Go along the corridor and it's on your right side.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Thank you for directions.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You have a younger brother  don't you.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How is your family.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She's engaged/married to John.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How long have you been married.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We've been married for 2 years.",
+        "label": "neutral"
+    },
+    {
+        "text": " My parents got married in 1954.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Mary gave birth to a baby last week.",
+        "label": "neutral"
+    },
+    {
+        "text": " They've been divorced.",
+        "label": "neutral"
+    },
+    {
+        "text": " His wife died a year ago Now he lives alone.",
+        "label": "neutral"
+    },
+    {
+        "text": "  My aunt will come to live with me for some days.",
+        "label": "neutral"
+    },
+    {
+        "text": "  John has his own family now.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you live with your parents.",
+        "label": "neutral"
+    },
+    {
+        "text": "  No I live in my own house.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure We are friends since primary school.",
+        "label": "neutral"
+    },
+    {
+        "text": " Really I was introduced to her just last weekend.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What is she doing now.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She told me she wanted to start a company.",
+        "label": "neutral"
+    },
+    {
+        "text": " Start a company  But I thought she would be a scholar.",
+        "label": "neutral"
+    },
+    {
+        "text": " People are always changing  aren't they.",
+        "label": "neutral"
+    },
+    {
+        "text": " Yes  you're right After all  she is smart enough to go into business.",
+        "label": "neutral"
+    },
+    {
+        "text": " But she doesn't have much experience.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You two don't have much contact.",
+        "label": "neutral"
+    },
+    {
+        "text": "  No  I only wrote her one letter this year.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She sent me a Christmas card last year.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Oh  that's not good.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Yes  we should try to contact more.",
+        "label": "neutral"
+    },
+    {
+        "text": " What time are you going to leave for the airport tomorrow.",
+        "label": "neutral"
+    },
+    {
+        "text": " Is he coming to dinner.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm going to the bookstore Will you go with me.",
+        "label": "neutral"
+    },
+    {
+        "text": "  They're going to discuss it at the meeting next Friday.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'll be waiting for you at the restaurant this time tomorrow.",
+        "label": "neutral"
+    },
+    {
+        "text": "After I get home  I'll call you.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How will you spend the evening.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'll probably stay home and watch TV.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's your plan for the summer holiday.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm thinking about a visit to Paris.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There's going to be a pottery exhibition at the art gallery.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You are still thinking about a Ph D  aren't you.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What will you do about it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you want to do after graduation.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'll further my study.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Have you heard the weather forecast.",
+        "label": "neutral"
+    },
+    {
+        "text": "  No  what does it say.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We'll have fine weather for the next few days.",
+        "label": "neutral"
+    },
+    {
+        "text": "  But it's still raining today.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It is said it will clear up tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What will it be after the clear weather.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It says a storm may come next month.",
+        "label": "neutral"
+    },
+    {
+        "text": "  And it may get colder  it's already November.",
+        "label": "neutral"
+    },
+    {
+        "text": " Yes  and I hope we can have some snow this winter.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm afraid it won't be cold enough for a snowfall.",
+        "label": "neutral"
+    },
+    {
+        "text": "  But last year we had a big one.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Yes  but you know global warming may raise the temperature.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You are probably right.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm going skating in the Alps next month.",
+        "label": "neutral"
+    },
+    {
+        "text": " I hope the weather there is cold enough.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How are you feeling today.",
+        "label": "neutral"
+    },
+    {
+        "text": " I don't feel very well.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you fell better now.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He's got a bad headache.",
+        "label": "neutral"
+    },
+    {
+        "text": " What's the matter with you.",
+        "label": "neutral"
+    },
+    {
+        "text": " I've got a pain in my back.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It hurts right here.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It's bleeding You'd better see a doctor about that cut.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Take two pills and have a good rest.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I hope you'll be well soon.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I get up at 8 every morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I then take a bath in the bathroom.",
+        "label": "neutral"
+    },
+    {
+        "text": " I shave  brush my teeth  and comb my hair.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I put on a bit of makeup.",
+        "label": "neutral"
+    },
+    {
+        "text": " I cooked breakfast for the family.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I go downstairs and have my breakfast.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I read the newspaper over breakfast.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I wake my sister up.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I dress my sister and wash her hands and face.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I get to my office at 10:30.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I leave the office at 7.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I buy some food on my way home.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I pick up my sister from her school.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We go to bed at 10:30.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you think about it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I think you're mistaken about that.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He was absent yesterday Do you know why.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you have any idea.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I suppose he was sick.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Will it rain tomorrow.",
+        "label": "neutral"
+    },
+    {
+        "text": "  No  I don't think so.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you really want to know what I think.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Please give me your advice.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I want to hear your opinion.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you plan to do this Friday.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What are you doing next week.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I plan to go to the concert.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm thinking of going to my grandma's.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'll go skiing of the weather permits.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I suppose I can finish the project next year.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm considering buying a house.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Hi  Jack  what lessons will you take this semester.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Hi  Lucy I'll take French and Economics.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm taking Chinese and History.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you plan to do some odd jobs.",
+        "label": "neutral"
+    },
+    {
+        "text": " Yes  I'm applying to work at the library.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You have the final say.",
+        "label": "neutral"
+    },
+    {
+        "text": " She insists that it doesn't matter.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you like traveling.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Yes  I've just come back from Scotland.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You look radiant tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": " He's made up his mind to quit his job.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I've decided not to sell the house.",
+        "label": "neutral"
+    },
+    {
+        "text": " I'm determined to leave.",
+        "label": "neutral"
+    },
+    {
+        "text": "  No  I haven't decided yet.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I've changed my mind.",
+        "label": "neutral"
+    },
+    {
+        "text": " It's still undecided.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Don't hesitate any more.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Give me a definite answer  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It's really hard to make a decision.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm always making resolutions  like giving up smoking.",
+        "label": "neutral"
+    },
+    {
+        "text": " Don't shilly-shally.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It was a terrible experience.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I am on top of the world.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The dinner was wonderful.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The Christmas tree is gorgeous.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What a boring movie it is.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How can he give us such a tedious lecture.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How fragrant the flowers are.",
+        "label": "neutral"
+    },
+    {
+        "text": " The party is making too much noise.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You look elegant in that dress.",
+        "label": "neutral"
+    },
+    {
+        "text": " The coat doesn't suit you.",
+        "label": "neutral"
+    },
+    {
+        "text": " His flattery makes me sick.",
+        "label": "neutral"
+    },
+    {
+        "text": " We had a good time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We enjoyed ourselves very much.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I am bored to death.",
+        "label": "neutral"
+    },
+    {
+        "text": " This house is for rent.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It's really a bargain.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I want to rent a furnished house.",
+        "label": "neutral"
+    },
+    {
+        "text": "  That house is for sale It has central heating.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What kind of furniture do you like.",
+        "label": "neutral"
+    },
+    {
+        "text": "  This is a rather old house It needs painting.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I want an apartment with two bedrooms and a kitchen.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The houses downtown are very expensive.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How much is the rent for a month.",
+        "label": "neutral"
+    },
+    {
+        "text": " I feel at home living here  The landlady is very kind to me.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We have a few kitchen things and a dining room set.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There's no gas range in the kitchen  but you can use the electric stove.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There is a shower in the bathroom.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I have a dog  but it's very quiet.",
+        "label": "neutral"
+    },
+    {
+        "text": " The room has a big closet You can put your baggage in it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What will you wear for the party.",
+        "label": "neutral"
+    },
+    {
+        "text": " I'll wear my blue dress.",
+        "label": "neutral"
+    },
+    {
+        "text": " Don't you think it's too formal.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Why What will you wear.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Just my shirt and jeans.",
+        "label": "neutral"
+    },
+    {
+        "text": " You should have your suit cleaned and ironed.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You'd better put on your jacket It's cold outside.",
+        "label": "neutral"
+    },
+    {
+        "text": " The blouse no longer fits me.",
+        "label": "neutral"
+    },
+    {
+        "text": "  My son has outgrown these trousers.",
+        "label": "neutral"
+    },
+    {
+        "text": " The shoes are worn-out.",
+        "label": "neutral"
+    },
+    {
+        "text": " I don't like wearing the uniform.",
+        "label": "neutral"
+    },
+    {
+        "text": " Do you want to change before the banquet.",
+        "label": "neutral"
+    },
+    {
+        "text": " Your shoe lace is loose.",
+        "label": "neutral"
+    },
+    {
+        "text": " You forgot to fasten the collar buttons.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Take off your hat It doesn't fit.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He is a very creative student.",
+        "label": "neutral"
+    },
+    {
+        "text": " What you have said about this is very interesting.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I cannot agree with you on this point.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You've got the point.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The whole class is in a heated discussion.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Let's just run through the arguments for and against.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Please sum up what you said just now.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Has anybody else anything to say on this.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Does anybody share David's opinion.",
+        "label": "neutral"
+    },
+    {
+        "text": " Is there any evidence to support what you have said.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I don't think it's necessary for us to discuss this question any further.",
+        "label": "neutral"
+    },
+    {
+        "text": " There are always two sides to everything.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Finally  we came to an agreement.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I want to be a journalist after graduation.",
+        "label": "neutral"
+    },
+    {
+        "text": "  If it doesn't rain tomorrow  we'll have a picnic.",
+        "label": "neutral"
+    },
+    {
+        "text": "  As soon as he comes  we'll let him know.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You can stay as long as you pay the rent on time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  When she leaves  he'll cry for a day.",
+        "label": "neutral"
+    },
+    {
+        "text": " She will go into business when she likes to.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'll leave for London if I finish my work today.",
+        "label": "neutral"
+    },
+    {
+        "text": " I'll work for 5 years and then go back to school.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He will become a writer if he goes on doing well in writing.",
+        "label": "neutral"
+    },
+    {
+        "text": " I hope he will meet me at the airport.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I'm thinking of quitting the job.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I plan to learn photography.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you say we have a party this weekend.",
+        "label": "neutral"
+    },
+    {
+        "text": " She will certainly remain single.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He will probably follow in his father's footsteps.",
+        "label": "neutral"
+    },
+    {
+        "text": "I would have had a much better holiday if I had stayed at home.",
+        "label": "neutral"
+    },
+    {
+        "text": " What have you been doing since I saw you last time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  If I had got enough money yesterday  I would have bought that tape.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Looking back on it  I think I shouldn't have given up the contest so easily.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Had I taken a taxi  I wouldn't have been late.",
+        "label": "neutral"
+    },
+    {
+        "text": " Even if you take the exam again  you won't pass it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Even if you had given him much more money  he might not have paid off the debt.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What would you have done if you hadn't gone out for a picnic yesterday.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I wish I had told him the truth.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I wish you hadn't cheated me.",
+        "label": "neutral"
+    },
+    {
+        "text": " If it had been fine  we would have gone to the park.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Would he have seen you if you hadn't waved to him.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You should have studied much harder.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I had thought about arguing with the teacher about that  but I didn't have enough",
+        "label": "neutral"
+    },
+    {
+        "text": "  I had thought about living with my grandparents when my parents went abroad last year.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's your favorite sport.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I like football best.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Football is my favorite.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Which do you prefer  fishing or mountain-climbing.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you like best  apples  pears  or bananas.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He's crazy about Michael Jordan.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She is sick of watching boxing.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She has good taste in clothes.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you like to do in your spare time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I like collecting stamps.",
+        "label": "neutral"
+    },
+    {
+        "text": " I prefer tea to coffee.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you dislike most about this movie.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I would rather sleep than watch this movie.",
+        "label": "neutral"
+    },
+    {
+        "text": " You should take the advice of your teacher.",
+        "label": "neutral"
+    },
+    {
+        "text": " That's just what I was looking for.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It might be  I suppose.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Good try  but not quite right.",
+        "label": "neutral"
+    },
+    {
+        "text": " That's rather disappointing.",
+        "label": "neutral"
+    },
+    {
+        "text": "  In my opinion  your new coat is not worth so much money.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Would you mind not spitting everywhere.",
+        "label": "neutral"
+    },
+    {
+        "text": " It's only a suggestion  you don't have to take it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  If you really want my advice I don't think you should quit school.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Thanks for your advice but I have to consider it myself.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He does not pay attention to anybody You are wasting your time in persuading him.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I am old enough to make up my own mind.",
+        "label": "neutral"
+    },
+    {
+        "text": " Your work seems not satisfactory.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What about your opinion.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I generally agree with you.",
+        "label": "neutral"
+    },
+    {
+        "text": " Would you open the door for me  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Would you mind opening the window.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I wondered if you could buy me some pencils.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you be so kind as to lend me some money.",
+        "label": "neutral"
+    },
+    {
+        "text": "  No problem How much.",
+        "label": "neutral"
+    },
+    {
+        "text": " I hope I'm not bothering you.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I hope that will not cause you too much trouble.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I really appreciate your help.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I don't want to put you to any trouble.",
+        "label": "neutral"
+    },
+    {
+        "text": " Excuse me  would you give me a hand.",
+        "label": "neutral"
+    },
+    {
+        "text": " I'd be glad to help.",
+        "label": "neutral"
+    },
+    {
+        "text": " Would you mind mailing this letter for me.",
+        "label": "neutral"
+    },
+    {
+        "text": " I have so many things to do before I leave.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I have to drop by the bank to get some money.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Traveler's check's are very convenient for long-distance travel.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you have anything to declare.",
+        "label": "neutral"
+    },
+    {
+        "text": " You have to apply for a passport in advance.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You don't have to pay any duty on personal belongings.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Make it an hour and a half  We have to get more food.",
+        "label": "neutral"
+    },
+    {
+        "text": " Shall we ask Betty to join us.",
+        "label": "neutral"
+    },
+    {
+        "text": "I put myself entirely in your hands.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Can you tell me the phone number of the inquiry office.",
+        "label": "neutral"
+    },
+    {
+        "text": " Do you like to take a local train or an express.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I have bought a ticket for a sleeper.",
+        "label": "neutral"
+    },
+    {
+        "text": " Have you reserved your ticket.",
+        "label": "neutral"
+    },
+    {
+        "text": " I would never have thought of it if you hadn't mentioned it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I will see you off at the railway station.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Where are you from.",
+        "label": "neutral"
+    },
+    {
+        "text": " What's your nationality.",
+        "label": "neutral"
+    },
+    {
+        "text": " What's your motherland.",
+        "label": "neutral"
+    },
+    {
+        "text": " Are you a native Chinese.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's the population of China.",
+        "label": "neutral"
+    },
+    {
+        "text": " How many provinces do you have.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's the capital of your country.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I was born in China and brought up in the USA.",
+        "label": "neutral"
+    },
+    {
+        "text": " My country has an area of 500 000 square kilometers.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The capital of my country id Beijing.",
+        "label": "neutral"
+    },
+    {
+        "text": " We have 50 provinces.",
+        "label": "neutral"
+    },
+    {
+        "text": "My country is rich in natural resources.",
+        "label": "neutral"
+    },
+    {
+        "text": "  That nation is famous for its tourism.",
+        "label": "neutral"
+    },
+    {
+        "text": " The biggest festival in my country is the Spring Festival.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Geographically  China is located in the Northern Hemisphere.",
+        "label": "neutral"
+    },
+    {
+        "text": "  In this country  the weather is usually very awful.",
+        "label": "neutral"
+    },
+    {
+        "text": " It is a very beautiful country with many mountains.",
+        "label": "neutral"
+    },
+    {
+        "text": "  This country is famous for its beautiful lakes.",
+        "label": "neutral"
+    },
+    {
+        "text": " The land in this region is rather dry and parched.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Along the northern coast of this continent  there are many crags.",
+        "label": "neutral"
+    },
+    {
+        "text": "  In Brazil  many ancient forests are very well preserves.",
+        "label": "neutral"
+    },
+    {
+        "text": " Lumbering is very important in some underdeveloped countries.",
+        "label": "neutral"
+    },
+    {
+        "text": " The scenery is very beautiful in the small islands in the Pacific Oceans.",
+        "label": "neutral"
+    },
+    {
+        "text": " What kind of climate do you have in this country.",
+        "label": "neutral"
+    },
+    {
+        "text": " In the west of America  there are many high peeks and deep canyons.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Which one is the longest river in China.",
+        "label": "neutral"
+    },
+    {
+        "text": " Do you get much rain in summer.",
+        "label": "neutral"
+    },
+    {
+        "text": " Is the plain along the river good for farming.",
+        "label": "neutral"
+    },
+    {
+        "text": "  It's cold and foggy in London at this time of the year.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Every one must receive 9 years of compulsory education.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Children enter primary school at the age of 7.",
+        "label": "neutral"
+    },
+    {
+        "text": " Some students quit school due to poverty.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There is fierce competition in the college Entrance Examination.",
+        "label": "neutral"
+    },
+    {
+        "text": " He majored in Computers.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She is working for her double major in English and Economics.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I graduated from Yale University 5 years ago.",
+        "label": "neutral"
+    },
+    {
+        "text": " It is desirable to apply to good schools.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Mary is in her freshman year.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Lily is a Sophomore now.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Mike is already a junior.",
+        "label": "neutral"
+    },
+    {
+        "text": "  As a senior  Peter is writing his thesis.",
+        "label": "neutral"
+    },
+    {
+        "text": " Mr Green is a member of the faculty.",
+        "label": "neutral"
+    },
+    {
+        "text": "  In Britain  there are open universities.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There are many training classed and night classes.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What does your father do.",
+        "label": "neutral"
+    },
+    {
+        "text": " He is a doctor He has his own practice.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you have any plan for your career.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I want to be a pilot of possible.",
+        "label": "neutral"
+    },
+    {
+        "text": " I hope that I can get a decent job with a good salary.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I have an interview next week.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Tom has opened his own business while his classmates are still slogging away at school.",
+        "label": "neutral"
+    },
+    {
+        "text": " I like writing  but I wouldn't take it as my career.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I worked as an intern in that firm last summer.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He's a very efficient young man though a little proud.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He made a successful career in business.",
+        "label": "neutral"
+    },
+    {
+        "text": " My cousin has just been promoted to the rank of major.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He is a manager of a famous corporation.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The statesman retired as the mayor of New York.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He was appointed president of the committee recently.",
+        "label": "neutral"
+    },
+    {
+        "text": " This area is noted for its rich soil.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The place is too stony for farming.",
+        "label": "neutral"
+    },
+    {
+        "text": "  In the flat country  people grow wheat and raise cattle.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He has bought 10 tractors for the village.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's the typical farm product in this region.",
+        "label": "neutral"
+    },
+    {
+        "text": " At this time of the year farmers begin to plow their fields.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Have you milked the cows.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Pile the hay in the corner.",
+        "label": "neutral"
+    },
+    {
+        "text": "What's the average yearly output of cars in your factory.",
+        "label": "neutral"
+    },
+    {
+        "text": " The meat packing industry is developing fast.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Car manufacturers are having a bad time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  State-owned enterprises are getting out of difficulty.",
+        "label": "neutral"
+    },
+    {
+        "text": " How many workshops are there in your factory.",
+        "label": "neutral"
+    },
+    {
+        "text": " The computer industry is booming.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The information industry helps boost the global economy.",
+        "label": "neutral"
+    },
+    {
+        "text": " Do you have any hobbies.",
+        "label": "neutral"
+    },
+    {
+        "text": " What are you interested in.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What are your interests.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you do in your spare time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How do you spend your evenings.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Lots of people like stamp collecting.",
+        "label": "neutral"
+    },
+    {
+        "text": " I am a Michael Jordan fan.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Does his film appeal to you.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you go on picnics.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I particularly like English literature.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's so interesting about football  We girls don't like it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She has a particular interest in painting.",
+        "label": "neutral"
+    },
+    {
+        "text": " I often take my mind off my work by reading an interesting novel.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He plays violin just for enjoyment.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Photography is an expensive hobby.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's your favorite sport.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What position do you play.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Our team beat their team yesterday.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We are sure to defeat them.",
+        "label": "neutral"
+    },
+    {
+        "text": "  How many years have you been playing pingpong.",
+        "label": "neutral"
+    },
+    {
+        "text": "  My favorite winter sport is skiing.",
+        "label": "neutral"
+    },
+    {
+        "text": " The basketball championship is exciting.",
+        "label": "neutral"
+    },
+    {
+        "text": " I was on the track team 10 years ago.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I prefer fishing to swimming.",
+        "label": "neutral"
+    },
+    {
+        "text": "  She is a member of the ski club.",
+        "label": "neutral"
+    },
+    {
+        "text": "  The hardest thing to learn is to be a good loser.",
+        "label": "neutral"
+    },
+    {
+        "text": " My class went camping last summer.",
+        "label": "neutral"
+    },
+    {
+        "text": "  He's good at lifting weights.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I subscribed to a lot of periodicals last year.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Tom reads newspapers in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What kind of newspapers do you read.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Newspapers and periodicals keep me updated on current affairs.",
+        "label": "neutral"
+    },
+    {
+        "text": " What column do you like best.",
+        "label": "neutral"
+    },
+    {
+        "text": " Which do you like better  the news or the editorial.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you read advertisements too.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I recommend to you Time and Newsweek They are excellent.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Fashion is a very popular magazine in America.",
+        "label": "neutral"
+    },
+    {
+        "text": " What's the circulation of this magazine.",
+        "label": "neutral"
+    },
+    {
+        "text": " Why don't you put an advertisement in the paper to sell that old car.",
+        "label": "neutral"
+    },
+    {
+        "text": " I once took a part-time job delivering the Evening Post.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Have you read the article about the rescue of the hostage.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There was much news in the morning paper today.",
+        "label": "neutral"
+    },
+    {
+        "text": "  My friend Tom is a reporter for the New York Times.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What channel are you watching now.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There's TV coverage of the NBA tournament.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you have a TV guide.",
+        "label": "neutral"
+    },
+    {
+        "text": "  You'll be on air in two minutes.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Channel 5 is off the air now.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Turn up your radio please.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We can't get good pictures on our TV set.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Can this radio receive short-wave.",
+        "label": "neutral"
+    },
+    {
+        "text": "  If you install an outside antenna  you will have better reception.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Turn down the radio please.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We'll have a soap opera series on TV this week.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Please tune in next time.",
+        "label": "neutral"
+    },
+    {
+        "text": "  We're broadcasting from London.",
+        "label": "neutral"
+    },
+    {
+        "text": "You can receive our program at short wave 37.",
+        "label": "neutral"
+    },
+    {
+        "text": "  There's too much static.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What's your favorite music.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you often go to a concert.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I hate Jazz It's too noisy.",
+        "label": "neutral"
+    },
+    {
+        "text": "  Do you like pop music.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I have never heard the piece before  who wrote it.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do you think of their skill.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I find classical concerts more to my liking than rock concerts.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I've never read a more stirring story.",
+        "label": "neutral"
+    },
+    {
+        "text": " He has a passion for literature.",
+        "label": "neutral"
+    },
+    {
+        "text": " I am most attracted by Dickens.",
+        "label": "neutral"
+    },
+    {
+        "text": "  I never grow tired of novels though I read them everyday.",
+        "label": "neutral"
+    },
+    {
+        "text": " On Sundays I often spend some time reading in the library.",
+        "label": "neutral"
+    },
+    {
+        "text": "  What do think about this poem.",
+        "label": "neutral"
+    },
+    {
+        "text": " I like Shakespeare better than Milton.",
+        "label": "neutral"
+    },
+    {
+        "text": " How much do you know about the works of George Eliot.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you for helping me.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's nice to meet you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I have your name.",
+        "label": "neutral"
+    },
+    {
+        "text": "It was a pleasure meeting you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Pleased to meet you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hope to see you again.",
+        "label": "neutral"
+    },
+    {
+        "text": "Does that mean that I can see you again.",
+        "label": "neutral"
+    },
+    {
+        "text": "I hope nothing is wrong.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  no Is it serious.",
+        "label": "neutral"
+    },
+    {
+        "text": "Have a safe trip home.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm Tom  Zhang We made a reservation for tea this afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  sir This way  please Here's your table Is this all right.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  it's nice  indeed Thank you.",
+        "label": "neutral"
+    },
+    {
+        "text": " Awfully sorry  sir  There are no rooms available now.",
+        "label": "neutral"
+    },
+    {
+        "text": "But I have reserved a room the day before yesterday.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry May I have your name.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Please wait a minute Let me check, excuse me  but I can't seem to find your name on our",
+        "label": "neutral"
+    },
+    {
+        "text": "list Are you sure you have a reservation for tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": "Of course  I did it myself.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm terribly sorry There must have been some mistakes let me check it again, Oh  yes.", 
+        "label": "neutral"
+    },
+    {
+        "text": "There is a name listed as Tom Huang It must be the fault of the clerk who registered",
+        "label": "neutral"
+    },
+    {
+        "text": "your name I apologize.",
+        "label": "neutral"
+    },
+    {
+        "text": "Don't worry about that.",
+        "label": "neutral"
+    },
+    {
+        "text": "According to the records  your reservation is for a single room with shower and air",
+        "label": "neutral"
+    },
+    {
+        "text": "conditioner for two nights  The room rate will be $110 per night  including 10% tax and",
+        "label": "neutral"
+    },
+    {
+        "text": "4% service charge Is it right.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  that's right  I'd like to pay my bill by credit card.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I take a print of your card.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK Now could you fill out this registration card.",
+        "label": "neutral"
+    },
+    {
+        "text": "Your room number is 707 Here is your key  The bellhop will help you to carry the suitcases",
+        "label": "neutral"
+    },
+    {
+        "text": "to your room  Have a nice evening.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I have a menu please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have a menu in chinese.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you like something to drink before dinner.",
+        "label": "neutral"
+    },
+    {
+        "text": "What kind of drinks do you have for an aperitif.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I see the wine list.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I order a glass of wine.",
+        "label": "neutral"
+    },
+    {
+        "text": "What kind of wine do you have.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to have some local wine.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to have Frence red wine.",
+        "label": "neutral"
+    },
+    {
+        "text": "Could you recommend some good wine.",
+        "label": "neutral"
+    },
+    {
+        "text": "What is the specialty of the house.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have today's special.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I have the same dish as that.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like appetizers and meat(fish) dish.",
+        "label": "neutral"
+    },
+    {
+        "text": "I have to avoid food containing fat(salt/suger).",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have vegetarian dishs.",
+        "label": "neutral"
+    },
+    {
+        "text": "How do you like your steak.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well done (medium/rare) please.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll arrive late  but please keep my reservation.",
+        "label": "neutral"
+    },
+    {
+        "text": "I made a reservation in Taipei.",
+        "label": "neutral"
+    },
+    {
+        "text": "My name is Wang Ming-Ming.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like a quiet room.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like a room on the upper level.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like a room with a nice view (a balcony).",
+        "label": "neutral"
+    },
+    {
+        "text": "Is hot water available any time.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have anything bigger (better/cheaper).",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll take this room.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you fill in this registration form.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you accept credit crads(traveler's checks).",
+        "label": "neutral"
+    },
+    {
+        "text": "Could you keep my valuables.",
+        "label": "neutral"
+    },
+    {
+        "text": "Where is the dining room.",
+        "label": "neutral"
+    },
+    {
+        "text": "What time does the dining room open.",
+        "label": "neutral"
+    },
+    {
+        "text": "What time can I have breakfast.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is there a beauty salon(barber shop).",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I have a card with the hotel's address.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I get a ticket for the sight-seeing bus here.",
+        "label": "neutral"
+    },
+    {
+        "text": "Where is the nearest subway station.",
+        "label": "neutral"
+    },
+    {
+        "text": "I have some laundry.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like these clothes cleaned (pressed).",
+        "label": "neutral"
+    },
+    {
+        "text": "Please put your laundry in the paper bag and write down the contents of the laundry on",
+        "label": "neutral"
+    },
+    {
+        "text": "Will it be ready by tomorrow (the day after tomorrow).",
+        "label": "neutral"
+    },
+    {
+        "text": "I need them tonight (tomorrow).",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to have my laundry by 9 o'clock tomorrow morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "There's one piece missing.",
+        "label": "neutral"
+    },
+    {
+        "text": "From what time do you accept laundry tomorrow morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "From 9 a m to 4 p m.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is there a beauty salon (barber shop) in this hotel.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to make an appointment for 5 p m today.",
+        "label": "neutral"
+    },
+    {
+        "text": "How would you like your hair.",
+        "label": "neutral"
+    },
+    {
+        "text": "Haircut and shampoo (shave)   please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Shampoo and set  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Please don't cut it too short.",
+        "label": "neutral"
+    },
+    {
+        "text": "A little more off the back (sides/top).",
+        "label": "neutral"
+    },
+    {
+        "text": "I don't need hair oil.",
+        "label": "neutral"
+    },
+    {
+        "text": "When is check-out time.",
+        "label": "neutral"
+    },
+    {
+        "text": "Could you bring my baggage down to the lobby tomorrow morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure What time are you leaving.",
+        "label": "neutral"
+    },
+    {
+        "text": "Then I'll go to your room at 7:50.",
+        "label": "neutral"
+    },
+    {
+        "text": "I have three pieces of baggage.",
+        "label": "neutral"
+    },
+    {
+        "text": "Please leave them outside your room tomorrow morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "This is room 316 I'd like a blanket  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Please bring me a pot of coffee (boiled water).",
+        "label": "neutral"
+    },
+    {
+        "text": "Please bring me some ice cubes and water.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like a wake-up call  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "7 o'clock tomorrow morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "The air-conditioner (TV��set��light) doesn't work.",
+        "label": "neutral"
+    },
+    {
+        "text": "There is no hot water.",
+        "label": "neutral"
+    },
+    {
+        "text": "The hot water is not hot enough.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to check out My bill  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "I had a coke in the mini-bar.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I pay by credit card.",
+        "label": "neutral"
+    },
+    {
+        "text": "We want to take a train to New York.",
+        "label": "neutral"
+    },
+    {
+        "text": "Regular or express train.",
+        "label": "neutral"
+    },
+    {
+        "text": "How much time would we save if we took the express.",
+        "label": "neutral"
+    },
+    {
+        "text": "About one hour The next express train arrives in New York at 3:15.",
+        "label": "neutral"
+    },
+    {
+        "text": "And how much more do we have to pay for the express.",
+        "label": "neutral"
+    },
+    {
+        "text": "First class is 24 dollars more  and second class is 15 dollars more.",
+        "label": "neutral"
+    },
+    {
+        "text": "Tom (to Mike)�� What do you think.",
+        "label": "neutral"
+    },
+    {
+        "text": "As long as we can arrive one hour earlier  I don't mind paying a little extra.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK Then give me two second-class tickets on the express  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  At last we are in the Big Apple  Now we have to take a subway to get to the Village ",
+        "label": "neutral"
+    },
+    {
+        "text": "Don't we need to buy a subway map.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  but I think we can get it free at the subway station  at the token booth.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I have ten tokens And also can I get a free subway map.",
+        "label": "neutral"
+    },
+    {
+        "text": "Ticket booth employee (B): Sure Here's a pack of ten tokens  twelve-fifty  and this is",
+        "label": "neutral"
+    },
+    {
+        "text": "We are going to the East Village Which train should we take.",
+        "label": "neutral"
+    },
+    {
+        "text": "Ticket booth employee (B):  Take the No 8 train and get off at Astor Place.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good afternoon May I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes Could you change some RMB into American dollars for me.",
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly  sir  How much would you like to change.",
+        "label": "neutral"
+    },
+    {
+        "text": "Ten thousand yuan  please By the way  what is the exchange rate for American currency",
+        "label": "neutral"
+    },
+    {
+        "text": "According to the present rate  one US Dollar in cash is equivalent to 8.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  here are the ten thousand yuan.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you please show me your passport.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you You'll have it right away Will you please sign your name on this exchange",
+        "label": "neutral"
+    },
+    {
+        "text": "memo Here is your money Please check it Keep this exchange memo You will need it to",
+        "label": "neutral"
+    },
+    {
+        "text": "convert any money you have left when you leave America.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you What exactly should I do with the Foreign Exchange Certificates left with me.",
+        "label": "neutral"
+    },
+    {
+        "text": "You have to go to money exchange counter in the bank  airport or railway station.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is this the bus that goes by the mall.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  it isn't But you can transfer from this bus to bus number 24 when we get to the 1st",
+        "label": "neutral"
+    },
+    {
+        "text": "Good How much is the fare.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's eighty cents for adults and thirty-five cents for children under twelve  Don't use",
+        "label": "neutral"
+    },
+    {
+        "text": "bill  and drop the exact fares into the money box after getting on the bus.",
+        "label": "neutral"
+    },
+    {
+        "text": "Will it cost for the transfer.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes When you get on the transfer bus  just show the bus driver the ticket stub You will",
+        "label": "neutral"
+    },
+    {
+        "text": "only have to pay ten more cents for yourself and a nickel for your child.",
+        "label": "neutral"
+    },
+    {
+        "text": "That sounds pretty good.",
+        "label": "neutral"
+    },
+    {
+        "text": "You can take a seat now  And when you're ready to get off  remember to press the button",
+        "label": "neutral"
+    },
+    {
+        "text": "Then how far ahead of time do I need to ring the bell for you to stop the bus.",
+        "label": "neutral"
+    },
+    {
+        "text": "Royal Hotel  can I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes I urgently need a room for tomorrow night  and do you have any vacancies.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  we have What kind of room would you like.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like a suite with an ocean view  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "What is the price of the suite.",
+        "label": "neutral"
+    },
+    {
+        "text": "It is $280 per night.",
+        "label": "neutral"
+    },
+    {
+        "text": "It is a little high I'm told that your hotel is offering discount now.",
+        "label": "neutral"
+    },
+    {
+        "text": "Front Desk: Yes  but the offer ended yesterday I'm sorry.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  I see Then do you have anything less expensive.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  sir So far it is the least expensive suite for tomorrow night.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  I will take it By the way  does the price include breakfast.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  it does Now could I have your name  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "My name is Tom Zhang.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you kindly spell it for me.",
+        "label": "neutral"
+    },
+    {
+        "text": "That is T O M  Z H A N G.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you  I got it And how long do you expect to stay.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK Our check-in time is after 1:00pm And see you tomorrow.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  May I speak to Miss Li  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  Miss Li  This is Tom  I didn't recognize your voice.",
+        "label": "neutral"
+    },
+    {
+        "text": "No She's at work now.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I have her office phone number  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Sure It's 6225-9438.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's John Didn't you recognize my voice.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No  you sound different today.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's because I have a bad cold.", 
+        "label": "neutral"
+    },
+    {
+        "text": "This is he speaking.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to talk to Mr Wang  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "He's stepped out of the office for a little while.",
+        "label": "neutral"
+    },
+    {
+        "text": "When is a good time to catch him.", 
+        "label": "neutral"
+    },
+    {
+        "text": "In about 30 minutes.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak to Miss Chen.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Miss Chen is not in right now She went shopping.", 
+        "label": "neutral"
+    },
+    {
+        "text": "When will she come back.",
+        "label": "neutral"
+    },
+    {
+        "text": "Why don't you call back later this afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "Will it be too late if I call around 9:00 tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": "That's all right  We don't go to bed early.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm trying to catch Mary  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Mary is not available at the moment.",
+        "label": "neutral"
+    },
+    {
+        "text": "What time should I call back.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak to Miss Wang.", 
+        "label": "neutral"
+    },
+    {
+        "text": "She is in a meeting until night.", 
+        "label": "neutral"
+    },
+    {
+        "text": "OK I will try her back then.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I please speak to Mr Kong.", 
+        "label": "neutral"
+    },
+    {
+        "text": "He is with someone right now Would you hold.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I please speak to Mr John.", 
+        "label": "neutral"
+    },
+    {
+        "text": "John cannot get to the phone right now.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello Is Susan there.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Isn't this the Nanjing University.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I please speak to Ling Ling.", 
+        "label": "neutral"
+    },
+    {
+        "text": "There is no one here by that name.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Is this five-two-one double eight six-four.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No This is five-two-one double eight three-five.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Are you sure you are dialing the right number.", 
+        "label": "neutral"
+    },
+    {
+        "text": "What number are you trying to dial.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No one lives here by that name.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm sorry  I dialed the wrong number.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak with Mr Chen  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  but he is out at the moment.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Then  please tell him that Zhao Li called.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes I'm sorry  but how do you spell your last name  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak to Miss Tan  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  but she is with someone right now.",
+        "label": "neutral"
+    },
+    {
+        "text": "I see May I leave her a message then.",
+        "label": "neutral"
+    },
+    {
+        "text": "Please ask her to call me at 6225-9438.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak to Miss Hu  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  but she is out for lunch right now.",
+        "label": "neutral"
+    },
+    {
+        "text": "I see What time will she come back.", 
+        "label": "neutral"
+    },
+    {
+        "text": "She'll be back around 2:30.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  I wish to speak to Xiao Fu.",
+        "label": "neutral"
+    },
+    {
+        "text": "This is Xiao Fu speaking.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  how do you do  Xiao Fu  This is Mary.",
+        "label": "neutral"
+    },
+    {
+        "text": "Mary  I'm glad you called me.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'm calling to ask you some questions about Susan.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  sorry  Mary  I'd better go now.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Is the boss coming by.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yeah  and I have to finish this report by four.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK I'll let you get back to your work.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'll call you again later  OK.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  Miss Huang  How are you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  Mr Wang  I'm fine  and you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'll doing fine  too.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  Miss Huang  we are planning to have a casual get-together I wonder if you and your",
+        "label": "neutral"
+    },
+    {
+        "text": "husband can join us.", 
+        "label": "neutral"
+    },
+    {
+        "text": "That sounds very nice When will it be.", 
+        "label": "neutral"
+    },
+    {
+        "text": "It's next week from this Monday.", 
+        "label": "neutral"
+    },
+    {
+        "text": "What a pity We have another party that day.", 
+        "label": "neutral"
+    },
+    {
+        "text": "It doesn't matter  Let's wait until the next time.",
+        "label": "neutral"
+    },
+    {
+        "text": "So I heard you're going to get married Congratulations.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you Yes  actually Mary and I have been planning this for some time  The only thing",
+        "label": "neutral"
+    },
+    {
+        "text": "holding us back is our financial situation.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I see  it's not easy to marry and start a family So when's the wedding.", 
+        "label": "neutral"
+    },
+    {
+        "text": "January the thirtieth and you're invited.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  thanks I'll be there Where will it be.", 
+        "label": "neutral"
+    },
+    {
+        "text": "You'll receive my invitation soon enough  and I will inform you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi  Tom  this is Mary.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you want to do something this Sunday John and I would like you to come over for a",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  my name is Tom with Steve Rogers I'd like to make an appointment with Miss Xu.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  Mr Tom Let me check Miss Xu's schedule Oh  she has an opening tomorrow at ten.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'm afraid I'll be tied up tomorrow at ten  Could we make it tomorrow at nine.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  That would be much better.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  this is Wang Ming May I speak to Gao Ling  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  Wang Ming  this is she.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I need to make an appointment with you tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK What time is it.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Seven o'clock  I'll pick you up at your office.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I make an appointment now.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  but Dr Lee's schedule is full for today  How about 9:00 tonight.", 
+        "label": "neutral"
+    },
+    {
+        "text": "That's fine I think I can wait till then.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I have your name and number  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "The name is Wang  and the number is 363-1127.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you  Mr Wang See you later.",
+        "label": "neutral"
+    },
+    {
+        "text": "Dr Tyler's office Good morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good moring This is Huang Feng.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I have a terrible cold.",
+        "label": "neutral"
+    },
+    {
+        "text": "Have you been here to see Dr Tyler before.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No This is my first visit.",
+        "label": "neutral"
+    },
+    {
+        "text": "Just a moment  I'll ask him.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  he makes house calls  but the doctor has an opening only after 2:00 p m.",
+        "label": "neutral"
+    },
+    {
+        "text": "I hear that you have a Italy Symphony Orchestra concert on the 15th evening And I wonder",
+        "label": "neutral"
+    },
+    {
+        "text": "if there are some balcony seats still available.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'm sorry  all the balcony seats are gone.",
+        "label": "neutral"
+    },
+    {
+        "text": "All right Please hold two orchestra seats for us.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Can I have your name  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "My last name is Chen C-H-E-N.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  Air China Flight Reservations May I help you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes Have you got any seats left on the 10th at 7:30 a m to HongKong.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  we have For how many.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Please keep two for us to pick up.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you prefer a window  aside or enter seat.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  my name is Susan and I am calling to confirm my reservation.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  Miss Susan  we have you down for a deluxe room tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": "Great and please make sure the room has a nice view of the park.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi This si Peter from Dr Alice's office.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm just calling to confirm your appointment tomorrow at 3:00 p m.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you I will be there on time.",
+        "label": "neutral"
+    },
+    {
+        "text": "My name is Wang Feng and I'm calling to cancel plane ticket.",
+        "label": "neutral"
+    },
+    {
+        "text": "When was your reservation.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's 5:00 p m today.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you like me to reschedule you for another time.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  my name is Li Ming and we have a reservation for party tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  what can I do for you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I need to cancel that We have had a last minute change of plans.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I see Would you like me to reschedule you for another night.",
+        "label": "neutral"
+    },
+    {
+        "text": "By the way  will we be able to get a refund on this cancellation.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you very much.",
+        "label": "neutral"
+    },
+    {
+        "text": "Barker's Service Station.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I need your help badly  My car can't start  Can you send somebody over.", 
+        "label": "neutral"
+    },
+    {
+        "text": "We can have somebody come by  but it won't be right away.",
+        "label": "neutral"
+    },
+    {
+        "text": "What time can you send one over.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  let's see It'll be about 3:30 before we have anybody free.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Can it be earlier than that.",
+        "label": "neutral"
+    },
+    {
+        "text": "I doubt it  sir We'll try  but I can't promise anybody before 3:30.",
+        "label": "neutral"
+    },
+    {
+        "text": "If I had it towed over there  could you work on it right away.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Sure  if you had it towed here to the garage  we could get right on it.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can you send your tow truck over here.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No I'm sorry  but we can't send out our tow truck to get you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Our tow truck's being repaired.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Room service May I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes I wonder if you can send up some of boiling water for me.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly Hold on  please What room are you in  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "This is Mr Wu in Room 415.",
+        "label": "neutral"
+    },
+    {
+        "text": "Very well  sir You'll have them as soon as possible.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good morning Restaurant Service May I help you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Good morning Would you please bring me some breakfast.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly  Miss What are you going to have.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to order a hamburger and fries.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you like anything else.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Well It will be up immediately.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to get some of today's papers sent to my room.",
+        "label": "neutral"
+    },
+    {
+        "text": "No problem  sir  Someone will bring them to your room shortly.",
+        "label": "neutral"
+    },
+    {
+        "text": "Room Service  What can I do for you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I ask for a morning call tomorrow morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly What time would you like.", 
+        "label": "neutral"
+    },
+    {
+        "text": "6:00 sharp  please.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Let me confirm your name and room number.",
+        "label": "neutral"
+    },
+    {
+        "text": "This is Gao Qiang in Room 409.", 
+        "label": "neutral"
+    },
+    {
+        "text": "OK We'll ring you up at 6:00 a m tomorrow.",
+        "label": "neutral"
+    },
+    {
+        "text": "Front Desk Can I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I'm checking out now  and want to get a taxi to the cinema Could you get one for",
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly  sir I'll get a taxi for you Are you going directly to the cinema.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No I need to stop by the shop.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK There will be a taxi waiting outside in 10 minutes.",
+        "label": "neutral"
+    },
+    {
+        "text": "Emergency Assistance  may I help you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I've just been robbed What should I do.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Are you injured  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No  no  I'm just a little upset.",
+        "label": "neutral"
+    },
+    {
+        "text": "Please remain calm  sir Just give me your name and your location.",
+        "label": "neutral"
+    },
+    {
+        "text": "My name is Lu Wei  I am beside Beijing Hotel on Changan Street.",
+        "label": "neutral"
+    },
+    {
+        "text": "Please stay where you are  we'll have a patrol car there in two minutes.",
+        "label": "neutral"
+    },
+    {
+        "text": "A thief has just robbed me Can you send the police.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Just give me your name and the place where you are calling from.",
+        "label": "neutral"
+    },
+    {
+        "text": "San Francisco General Hospital.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  This is an emergency  Can you please send an ambulance.", 
+        "label": "neutral"
+    },
+    {
+        "text": "OK  OK- just try to calm down  sir And tell me where you are and what's happened.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK Right Uh  We're at La Traviata restaurant in North Beach And my wife is- uh-",
+        "label": "neutral"
+    },
+    {
+        "text": "Sir  I thought this was an emergency.",
+        "label": "neutral"
+    },
+    {
+        "text": "It is She's having pains a minute apart.",
+        "label": "neutral"
+    },
+    {
+        "text": "You mean from the food.", 
+        "label": "neutral"
+    },
+    {
+        "text": "She's having a baby.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Well  why didn't you tell me Now  what's the restaurant's address.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Uh  uh  it's 888 Grant Avenue It's a block east of Washington Square.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  sir  just sit tight  and we'll have an ambulance there in about ten minutes.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak to the head of the household.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I ask who's calling.",
+        "label": "neutral"
+    },
+    {
+        "text": "I am calling on behalf of the Private Teacher Company This is Susan with Jiaotong",
+        "label": "neutral"
+    },
+    {
+        "text": "University student May I have your name  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Excuse me  Mr Li  Do you have children  Mr Li.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Great  I believe you must care for his educations  We will help your children in learning",
+        "label": "neutral"
+    },
+    {
+        "text": "lessons in their free time.",
+        "label": "neutral"
+    },
+    {
+        "text": "You've traveled abroad a lot  Tom  so would you like to tell me something about clearing",
+        "label": "neutral"
+    },
+    {
+        "text": "When you arrive in a country  you clear customs A lot of countries have two channels:",
+        "label": "neutral"
+    },
+    {
+        "text": "the green channel and the red channel Some countries  like India  have three channels:",
+        "label": "neutral"
+    },
+    {
+        "text": "the white channel  the green channel and the red channel.",
+        "label": "neutral"
+    },
+    {
+        "text": "Then what are the differences between the green channel and red channel.",
+        "label": "neutral"
+    },
+    {
+        "text": "If you have more than the duty-free allowances or prohibited goods  you go through the",
+        "label": "neutral"
+    },
+    {
+        "text": "red channel and declare them to a customs officer  If you otherwise have nothing to",
+        "label": "neutral"
+    },
+    {
+        "text": "declare  you go straight through the green channel unless you are asked to stop by an",
+        "label": "neutral"
+    },
+    {
+        "text": "I see I'm told that we'll have to state the purpose of going to a certain country  is",
+        "label": "neutral"
+    },
+    {
+        "text": "That's right People go aboard for different purposes: some for pleasure  some on vacation ",
+        "label": "neutral"
+    },
+    {
+        "text": "some on business  and some for other purposes.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm going to New Zealand for sightseeing What should I say if they ask about my purpose.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I see your passport  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are you traveling on business or for pleasure.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm going to visit my older sister in New York.",
+        "label": "neutral"
+    },
+    {
+        "text": "How long will you stay.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have anything to declare Jewelry or cash.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I haven't The only things I brought were my own clothes  my notebook computer and",
+        "label": "neutral"
+    },
+    {
+        "text": "some gifts for my sister.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm sorry I'm afraid I'll have to check these  too Did you bring any fruits  vegetables ",
+        "label": "neutral"
+    },
+    {
+        "text": "fresh meats or plants into this country.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  rotten fruit is not allowed.",
+        "label": "neutral"
+    },
+    {
+        "text": "But it is NOT rotten It naturally has the special flavor.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  perhaps  But perishables are also not allowed.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have any direct flight to New Zealand.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  we don't  But I think you can fly on Northwest 212 to Tokyo and then have a",
+        "label": "neutral"
+    },
+    {
+        "text": "connecting flight on Japan Airline 123 to Auckland  And it is the most economical flight ",
+        "label": "neutral"
+    },
+    {
+        "text": "When does the Flight 212 depart.",
+        "label": "neutral"
+    },
+    {
+        "text": "At 11:30am By the way  it also makes a refueling stop at Chicago.",
+        "label": "neutral"
+    },
+    {
+        "text": "How big is the layover at Chicago.",
+        "label": "neutral"
+    },
+    {
+        "text": "And how long do I have to stay in Tokyo for the connecting flight.",
+        "label": "neutral"
+    },
+    {
+        "text": "Not so long  just one hour.",
+        "label": "neutral"
+    },
+    {
+        "text": "So the time for the whole journey is about.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is this the bus that goes by the mall.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  it isn't But you can transfer from this bus to bus number 24 when we get to the 1st",
+        "label": "neutral"
+    },
+    {
+        "text": "Good How much is the fare.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's eighty cents for adults and thirty-five cents for children under twelve  Don't use",
+        "label": "neutral"
+    },
+    {
+        "text": "bill  and drop the exact fares into the money box after getting on the bus.",
+        "label": "neutral"
+    },
+    {
+        "text": "Will it cost for the transfer.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes When you get on the transfer bus  just show the bus driver the ticket stub You will",
+        "label": "neutral"
+    },
+    {
+        "text": "only have to pay ten more cents for yourself and a nickel for your child.",
+        "label": "neutral"
+    },
+    {
+        "text": "That sounds pretty good.",
+        "label": "neutral"
+    },
+    {
+        "text": "You can take a seat now  And when you're ready to get off  remember to press the button",
+        "label": "neutral"
+    },
+    {
+        "text": "Then how far ahead of time do I need to ring the bell for you to stop the bus.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  At last we are in the Big Apple Now we have to take a subway to get to the Village Don't",
+        "label": "neutral"
+    },
+    {
+        "text": "we need to buy a subway map.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  but I think we can get it free at the subway station  at the token booth.",
+        "label": "neutral"
+    },
+    {
+        "text": "Royal Hotel  can I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I urgently need a room for tomorrow night  and do you have any vacancies.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  we have  What kind of room would you like.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like a suite with an ocean view  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "What is the price of the suite.",
+        "label": "neutral"
+    },
+    {
+        "text": "It is US $280 per night.",
+        "label": "neutral"
+    },
+    {
+        "text": "It is a little high I'm told that your hotel is offering discount now.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  but the offer ended yesterday I'm sorry.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  I see Then do you have anything less expensive.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  sir So far it is the least expensive suite for tomorrow night.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  I will take it By the way  does the price include breakfast.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  it does  Now could I have your name  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "My name is Tom Zhang.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you kindly spell it for me.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you  I got it And how long do you expect to stay.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK Our check-in time is after 1:00pm  And see you tomorrow.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good evening Do you have a reservation.",
+        "label": "neutral"
+    },
+    {
+        "text": "How many people are you together.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you like to sit in smoking section  non-smoking section or whatever comes open",
+        "label": "neutral"
+    },
+    {
+        "text": "We prefer non-smoking section.",
+        "label": "neutral"
+    },
+    {
+        "text": "Awfully sorry  there are no vacancies left now Would you like to wait for a moment.",
+        "label": "neutral"
+    },
+    {
+        "text": "How long a wait do you think there'll be.",
+        "label": "neutral"
+    },
+    {
+        "text": "About eight minutes  I think.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  we will wait a while.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm sorry for making you wait for so long  Now there is a table available in non-smoking",
+        "label": "neutral"
+    },
+    {
+        "text": "section Please follow me.",
+        "label": "neutral"
+    },
+    {
+        "text": "This is menu  Are you ready to order now.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  we haven't decided yet Could you please give us a little longer.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  I think I would like to have a shrimp cocktail and the tomato sausage soup first ",
+        "label": "neutral"
+    },
+    {
+        "text": "How about you  Jones.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to check in  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Awfully sorry  sir  There are no rooms available now.",
+        "label": "neutral"
+    },
+    {
+        "text": "But I have reserved a room the day before yesterday.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry May I have your name.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Please wait a minute Let me check.",
+        "label": "neutral"
+    },
+    {
+        "text": "list Are you sure you have a reservation for tonight.",
+        "label": "neutral"
+    },
+    {
+        "text": "Of course  I did it myself.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm terribly sorry  There must have been some mistakes  Let me check it again.",
+        "label": "neutral"
+    },
+    {
+        "text": "There is a name listed as Tom Huang It must be the fault of the clerk who registered",
+        "label": "neutral"
+    },
+    {
+        "text": "your name  I apologize.",
+        "label": "neutral"
+    },
+    {
+        "text": "Don't worry about that.",
+        "label": "neutral"
+    },
+    {
+        "text": "According to the records  your reservation is for a single room with shower and air",
+        "label": "neutral"
+    },
+    {
+        "text": "conditioner for two nights The room rate will be $110 per night  including 10% tax and",
+        "label": "neutral"
+    },
+    {
+        "text": "4% service charge  Is it right.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  that's right I'd like to pay my bill by credit card.", 
+        "label": "neutral"
+    },
+    {
+        "text": "May I take a print of your card.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK Now could you fill out this registration card.",
+        "label": "neutral"
+    },
+    {
+        "text": "Your room number is 707 Here is your key  The bellhop will help you to carry the suitcases",
+        "label": "neutral"
+    },
+    {
+        "text": "to your room Have a nice evening.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  we are Could we have the check  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Here is your check  86 dollars in all I can take care of it here when you're ready.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you accept cheque.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I'm sorry we don't We accept credit cards and cash.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  I don't have any cash with me  So I'll have to put in on credit  Here's 90 dollars",
+        "label": "neutral"
+    },
+    {
+        "text": "Please keep the change.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you  I will be right back.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  please wait for a minute I want to go with the food left.",
+        "label": "neutral"
+    },
+    {
+        "text": "I see I will bring some to-go boxes for you.",
+        "label": "neutral"
+    },
+    {
+        "text": "What can I do for you  sir.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm Tom in Room 528  and I want a wake-up call tomorrow morning.",
+        "label": "neutral"
+    },
+    {
+        "text": "We have a computer wake-up service Please dial 2 first and then the time That is to say ",
+        "label": "neutral"
+    },
+    {
+        "text": "dial 2 and the 0615 for the time There must be five digits in the final number.",
+        "label": "neutral"
+    },
+    {
+        "text": "I see  Then it is 20615 Thank you  By the way  if I want to change my wake-up time  what",
+        "label": "neutral"
+    },
+    {
+        "text": "Just dial your new wake-up time The computer will automatically cancel the old time and",
+        "label": "neutral"
+    },
+    {
+        "text": "If I dial 20700  I will be waked up at 7:00 am.",
+        "label": "neutral"
+    },
+    {
+        "text": "You are welcome Good night.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm so glad you like it  What would you like  We serve coffee and tea  sandwiches  cakes",
+        "label": "neutral"
+    },
+    {
+        "text": "and cold drinks Please look under the plate-glass at the menu for afternoon tea.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll try a chicken salad sandwich and have a cup of coffee with cream.",
+        "label": "neutral"
+    },
+    {
+        "text": "What's your specialty today.",
+        "label": "neutral"
+    },
+    {
+        "text": "We have strawberries with cream today I suggest you try them.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  I'm looking for some winter clothes for my wife.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  it is the high time for your purchasing in our clothes shop We are now having a",
+        "label": "neutral"
+    },
+    {
+        "text": "pre-season sale on all our winter apparel.",
+        "label": "neutral"
+    },
+    {
+        "text": "Everything for winter is 20% off.",
+        "label": "neutral"
+    },
+    {
+        "text": "I think my wife may favor the sweater in the shopwindow  And would you like to aid me",
+        "label": "neutral"
+    },
+    {
+        "text": "to look for any skirts going with this sweater.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure  We have both skirts and trousers that would go well with the sweater  Look to this",
+        "label": "neutral"
+    },
+    {
+        "text": "I especially like this flowery skirt  My wife must be very elegant in them.",
+        "label": "neutral"
+    },
+    {
+        "text": "You have a good taste It is very much in style this year.",
+        "label": "neutral"
+    },
+    {
+        "text": "But I don't think the green one fits her complexion Do you have any of those skirts in",
+        "label": "neutral"
+    },
+    {
+        "text": "Look on the rack to your right.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh yes  I'll take this one Can I pay with a traveler's check.",
+        "label": "neutral"
+    },
+    {
+        "text": "This is the Royal Hotel operator  can I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello  I would like to make a collect call  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "What is your name  and where are you now  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "This is Tom  Zhang in China.",
+        "label": "neutral"
+    },
+    {
+        "text": "What's the extension number.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I speak to Mr Janson  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can I help you  sir.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  yes This is a traveler's check of four thousand  I'd like to cash this check  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have an account with us  sir.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I don't  Is that going to be a problem.",
+        "label": "neutral"
+    },
+    {
+        "text": "Never mind The check that you have is drawn off of this bank  May I see your driver's",
+        "label": "neutral"
+    },
+    {
+        "text": "I don't have a driver's license Will a passport be all right.",
+        "label": "neutral"
+    },
+    {
+        "text": "That's fine How would you like this cash back.",
+        "label": "neutral"
+    },
+    {
+        "text": "I want twenty hundred-dollar bills and the rest in fifties  twenties and tens  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Four thousand Please check it  sir Thank you and have a good day.",
+        "label": "neutral"
+    },
+    {
+        "text": "Excuse me Could you please break this five into some coins for me I want to make a call.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure  What would you like.",
+        "label": "neutral"
+    },
+    {
+        "text": "How about two dollars in quarters and the rest in dimes and nickels.",
+        "label": "neutral"
+    },
+    {
+        "text": "Let me see  Good  I happen to have enough There you go.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's so kind of you.",
+        "label": "neutral"
+    },
+    {
+        "text": "If you have time around Christmas  please come to visit my family And I'll be able to",
+        "label": "neutral"
+    },
+    {
+        "text": "show you around our city.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Thanks for the invitation And please give my regards to your wife.", 
+        "label": "neutral"
+    },
+    {
+        "text": "You do the same Well  I'd better go Thanks again for everything.",
+        "label": "neutral"
+    },
+    {
+        "text": "Take care  and have a nice flight.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good afternoon May I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes Could you change some RMB into American dollars for me.",
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly  sir  How much would you like to change.",
+        "label": "neutral"
+    },
+    {
+        "text": "Ten thousand yuan  please  By the way  what is the exchange rate for American currency",
+        "label": "neutral"
+    },
+    {
+        "text": "According to the present rate  one US Dollar in cash is equivalent to 8.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  here are the ten thousand yuan.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you please show me your passport.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you  You'll have it right away  Will you please sign your name on this exchange",
+        "label": "neutral"
+    },
+    {
+        "text": "memo Here is your money  Please check it  Keep this exchange memo  You will need it to",
+        "label": "neutral"
+    },
+    {
+        "text": "convert any money you have left when you leave America.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you What exactly should I do with the Foreign Exchange Certificates left with me.",
+        "label": "neutral"
+    },
+    {
+        "text": "You have to go to money exchange counter in the bank  airport or railway station.",
+        "label": "neutral"
+    },
+    {
+        "text": "Excuse me  could you help me.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes What seems to be the problem.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  I was wondering if anyone has turned in a passport.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm afraid not Have you lost your passport.",
+        "label": "neutral"
+    },
+    {
+        "text": "I think so I can't find it anywhere in my hotel room  and I remember the last place I",
+        "label": "neutral"
+    },
+    {
+        "text": "used it yesterday was in this department store.",
+        "label": "neutral"
+    },
+    {
+        "text": "where exactly did you use your passport in the store.",
+        "label": "neutral"
+    },
+    {
+        "text": "In the suit-dress department I had to show it to pay for these dresses with my traveler's",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  let me call the suit-dress department to see if they've found a passport.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry-your passport's not been turned in there  either.",
+        "label": "neutral"
+    },
+    {
+        "text": "Then what shall I do.",
+        "label": "neutral"
+    },
+    {
+        "text": "You can fill in this lost property report  and I'll keep my eye out for it Those kinds",
+        "label": "neutral"
+    },
+    {
+        "text": "of things usually turn up eventually  but I suggest you contact your embassy and tell",
+        "label": "neutral"
+    },
+    {
+        "text": "them about your situation  so they can issue you a new passport in case it doesn't show",
+        "label": "neutral"
+    },
+    {
+        "text": "You're right  Do you have a pen.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  I seem to lose something every time I travel.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm ready for a new hairdo  Do you have any suggestions.",
+        "label": "neutral"
+    },
+    {
+        "text": "Have you taken a look at any of the new styles lately.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I brought a magazine to show you I like this one.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  that is pretty  Do you want to keep your hair this long Or do you want to take it",
+        "label": "neutral"
+    },
+    {
+        "text": "shorter I think you would look cute with short hair  Perhaps you should go even shorter",
+        "label": "neutral"
+    },
+    {
+        "text": "than in the picture.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll leave it up to you Like I said  I'm ready for a change.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK You should really think about getting highlights put in  too.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you think that would look good I'm worried it will make my hair look unnatural.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  it won't The highlights are very subtle  We can do a little bit this time If you",
+        "label": "neutral"
+    },
+    {
+        "text": "like it  we can do more next time  Otherwise  the highlights should grow out in about",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  just do what you want  I count on you  By the way  how much do you charge for a shampoo",
+        "label": "neutral"
+    },
+    {
+        "text": "Forty dollars in total.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good afternoon  sir Please sit here.",
+        "label": "neutral"
+    },
+    {
+        "text": "A haircut and a shave  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "How would you like your hair cut  sir.",
+        "label": "neutral"
+    },
+    {
+        "text": "Short on both sides  Not so much off at the back.",
+        "label": "neutral"
+    },
+    {
+        "text": "Very well  sir  Do you want me to trim your beard.",
+        "label": "neutral"
+    },
+    {
+        "text": "Now have a look  please  Is it all right.",
+        "label": "neutral"
+    },
+    {
+        "text": "Well  I would like my hair cut shorter on the temples.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is that satisfactory.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you want conditioner.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  thanks  but I'd like a face massage.",
+        "label": "neutral"
+    },
+    {
+        "text": "Now where should I pay the money.",
+        "label": "neutral"
+    },
+    {
+        "text": "You should go to the counter  just over there.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good morning  madam.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good morning I would like a shampoo and set.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  madam What style do you want.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to try a new hair-style Could you show me some pictures of hair styles.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure We have various models: hair bobbed  hair sweptback  chaplet hair style ",
+        "label": "neutral"
+    },
+    {
+        "text": "shoulder-length hair style  hair done in a bun Please have a look at them  madam.",
+        "label": "neutral"
+    },
+    {
+        "text": "Thanks  Please give me the style in this picture here but make the wave longer  I would",
+        "label": "neutral"
+    },
+    {
+        "text": "like hair spray  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  your hair dryer is too hot  Would you adjust it  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sorry  madam I'll adjust it right away.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is that all right now.",
+        "label": "neutral"
+    },
+    {
+        "text": "Beautifully done  Please trim my eyebrows and darken them.",
+        "label": "neutral"
+    },
+    {
+        "text": "All right  madam  And would you like a manicure.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  Use a light nail varnish  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "All my bags are checked in I guess I'm all set to go.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I know you must be excited to go home after such a long business trip.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I am sure  So  we'll be expecting the first shipment in less than a month.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  that's right They'll be there in no time.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Good  Tell Mr Gao at the factory to keep up the good work.",
+        "label": "neutral"
+    },
+    {
+        "text": "I think all the products are going to sell very well.", 
+        "label": "neutral"
+    },
+    {
+        "text": "We hope so  It's always good to work with you  Tom.",
+        "label": "neutral"
+    },
+    {
+        "text": "I want to thank you for placing such a big order with us You won't be disappointed.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'm sure I won't I really appreciate all of your hospitality.", 
+        "label": "neutral"
+    },
+    {
+        "text": "And I'd like to give you a little something to take home Let me unroll it.", 
+        "label": "neutral"
+    },
+    {
+        "text": "This is beautiful Chinese calligraphy What do these characters mean.", 
+        "label": "neutral"
+    },
+    {
+        "text": "They mean long life I remember you liked the calligraphy at the Palace Museum So I thought",
+        "label": "neutral"
+    },
+    {
+        "text": "That's very nice of you Where did you get it It's not a print.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  it's an original  My father's friend is a calligrapher  and I had him make it for",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll hang it in my office But I feel bad I didn't get you anything.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Don't worry about it It's a taken of my appreciation for your business  and friendship.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to cash this check.",
+        "label": "neutral"
+    },
+    {
+        "text": "Can you give me some forms of identification.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I just have my driver's license with me Is that enough.",
+        "label": "neutral"
+    },
+    {
+        "text": "No Please endorse the check at the back.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are you the loans-officer.",
+        "label": "neutral"
+    },
+    {
+        "text": "I certainly am May I help you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes I'd like to make a loan.", 
+        "label": "neutral"
+    },
+    {
+        "text": "All right Please sit down.",
+        "label": "neutral"
+    },
+    {
+        "text": "It's a loan for a car I'd like to purchase.",
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to buy some stamps for this letter.",
+        "label": "neutral"
+    },
+    {
+        "text": "Let me just weigh it first.",
+        "label": "neutral"
+    },
+    {
+        "text": "How much will it be.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Are you sending it by regular or by speed.",
+        "label": "neutral"
+    },
+    {
+        "text": "That'll be four yuan.", 
+        "label": "neutral"
+    },
+    {
+        "text": "How long will it take for my mail to reach its destination.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Good day also to you.",
+        "label": "neutral"
+    },
+    {
+        "text": "What can I do for you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is this where I claim parcels.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No  please go to window thirty-six.",
+        "label": "neutral"
+    },
+    {
+        "text": "That's nothing at all.",
+        "label": "neutral"
+    },
+    {
+        "text": "May I help you  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to cash some traveller's checks here.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly Do you have any identification.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I have my Passport Here it is.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Fine How much would you like to exchange  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "What's the exchange rate today.", 
+        "label": "neutral"
+    },
+    {
+        "text": "A dollar is valued at eight point two RMB yuan.",
+        "label": "neutral"
+    },
+    {
+        "text": "Five hundred dollars  please And could you give me ten dollar in small change.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No Please endorse the check at the back.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are there any tours for the Grand Canyon.", 
+        "label": "neutral"
+    },
+    {
+        "text": "There are several tours of the Grand Canyon  Have you been to our Tourist Information",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I haven't  Would you show me where that is.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure It's up ahead to your left.",
+        "label": "neutral"
+    },
+    {
+        "text": "I heard that some tours actually go down into the canyon  Is that true.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes It's a great way to really see the canyon In addition  it's great exercise too  since",
+        "label": "neutral"
+    },
+    {
+        "text": "we do a lot of hiking.",
+        "label": "neutral"
+    },
+    {
+        "text": "That sounds fantastic Where do I go to sign up for that tour.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Go inside the Information Center And tell them you want to go on the tour that goes down",
+        "label": "neutral"
+    },
+    {
+        "text": "Welcome to China May I have a look at your customs declaration.", 
+        "label": "neutral"
+    },
+    {
+        "text": "You go ahead with the formalities  I'll see to the heavy luggage.",
+        "label": "neutral"
+    },
+    {
+        "text": "That's great I'll come back right after the formalities.",
+        "label": "neutral"
+    },
+    {
+        "text": "What type of visa have you got.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I have a tourist visa.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Would you mind opening your suitcase.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Not at all  Check it  please.",
+        "label": "neutral"
+    },
+    {
+        "text": "Would you please make a record of all your foreign currencies.", 
+        "label": "neutral"
+    },
+    {
+        "text": "OK  I'll do as you say.",
+        "label": "neutral"
+    },
+    {
+        "text": "Have you filled in the baggage declaration.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  I really don't know how to go about it.",
+        "label": "neutral"
+    },
+    {
+        "text": "Do you have anything to declare for customs.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No I have nothing to declare.",
+        "label": "neutral"
+    },
+    {
+        "text": "How long are you going to stay here.", 
+        "label": "neutral"
+    },
+    {
+        "text": "About one month  I'm just sightseeing.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Have you anything dutiable.",
+        "label": "neutral"
+    },
+    {
+        "text": "No  these are only personal effects.",
+        "label": "neutral"
+    },
+    {
+        "text": "Could you give me some information on your European tours.",
+        "label": "neutral"
+    },
+    {
+        "text": "Our pleasure We have several package tours you may choose  from ten days to three weeks",
+        "label": "neutral"
+    },
+    {
+        "text": "I would be interested in a ten-day trip around Christmas time.",
+        "label": "neutral"
+    },
+    {
+        "text": "I have one ten-day tour that is still available It will depart from New York on Dec 24.", 
+        "label": "neutral"
+    },
+    {
+        "text": "The price for one person for a ten-day tour is only $ 1088  which includes round-trip",
+        "label": "neutral"
+    },
+    {
+        "text": "That sounds reasonable  Let me think it over  And I'll call you back to make reservations.",
+        "label": "neutral"
+    },
+    {
+        "text": "OK  But don't delay too long  Or that trip will be all booked.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good morning  sir  May I help you.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I have a room booked with you  for three days starting today Name of Lu  L-U.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Thank you  Mr Lu  Please wait a moment while I check our reservations list  That's Mr",
+        "label": "neutral"
+    },
+    {
+        "text": "Steven Lu  from Taipei.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Mr Lu  everything is OK  Your booking is from today through Wendnsday  Single room.",
+        "label": "neutral"
+    },
+    {
+        "text": "Your room number is 512  Here's your key.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Thanks  Could you point me in the right direction.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Certainly  sir  The elevators are right across the lobby.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hi  I'd like to cash an American Express traveler's check.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Sure Would you please sign your name on the back  sir  with your passport number And",
+        "label": "neutral"
+    },
+    {
+        "text": "I'll need to see your passport.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Sure Can you give me fifty dollars in small bills  please  and ten dollars in change.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No problems Here's your passport  and here's your money Have a nice day  Mr Lu.",
+        "label": "neutral"
+    },
+    {
+        "text": "Hello I'm calling from Room 1116.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes Can I do something for you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'm ready to check out now.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I have your bill right here.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Did you make any long distance calls this morning  or did you sign for your breakfast.",
+        "label": "neutral"
+    },
+    {
+        "text": "Fine The bill comes to $ 300 even.", 
+        "label": "neutral"
+    },
+    {
+        "text": "By all means  you ahead.", 
+        "label": "neutral"
+    },
+    {
+        "text": "What is this charge here.", 
+        "label": "neutral"
+    },
+    {
+        "text": "That's for a long distance call you make two nights ago.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I see Is a credit card OK.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Are you ready to order now  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  I am I'd like some wine and roast duck.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Roast duck There will be a slight delay for that.",
+        "label": "neutral"
+    },
+    {
+        "text": "About forty minutes  I think.", 
+        "label": "neutral"
+    },
+    {
+        "text": "OK  please I'll order something else at first.",
+        "label": "neutral"
+    },
+    {
+        "text": "What did you order.", 
+        "label": "neutral"
+    },
+    {
+        "text": "The fried scallops.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  sorry There must be some mistake.",
+        "label": "neutral"
+    },
+    {
+        "text": "Sure Where are you going.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Drive me back to Santa Clara.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Santa Clara OK  That's about 20 miles away.", 
+        "label": "neutral"
+    },
+    {
+        "text": "How much will it cost.", 
+        "label": "neutral"
+    },
+    {
+        "text": "That'll be thirty-six dollars  sir.",
+        "label": "neutral"
+    },
+    {
+        "text": "Here you are You can keep the change.", 
+        "label": "neutral"
+    },
+    {
+        "text": "You're very generous.", 
+        "label": "neutral"
+    },
+    {
+        "text": "That's alright  You're a lot of help.",
+        "label": "neutral"
+    },
+    {
+        "text": "Yes May I help you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I'd like to rent a car  please  I need it for business.", 
+        "label": "neutral"
+    },
+    {
+        "text": "I see May I have your driver's license.",
+        "label": "neutral"
+    },
+    {
+        "text": "What type of car did you want  sir.",
+        "label": "neutral"
+    },
+    {
+        "text": "A small one will do  What is your best rate.", 
+        "label": "neutral"
+    },
+    {
+        "text": "We have a mideweek special It's 12 dollars a day  12 cents a mile  plus gas.", 
+        "label": "neutral"
+    },
+    {
+        "text": "OK I'll take that one.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Very good Please fill out this form.",
+        "label": "neutral"
+    },
+    {
+        "text": "I want to pick up the car tomorrow morning at seven Are you open then.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  we are  Mr Wang  How are you going to pay.", 
+        "label": "neutral"
+    },
+    {
+        "text": "We'd prefer a credit card  if you have one.",
+        "label": "neutral"
+    },
+    {
+        "text": "How long will you keep the car.",
+        "label": "neutral"
+    },
+    {
+        "text": "Are you going to return it here.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No I want to leave it in Chicago.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Here's my visa card.",
+        "label": "neutral"
+    },
+    {
+        "text": "Just a minute Here's your receipt.",
+        "label": "neutral"
+    },
+    {
+        "text": "Is this the bus that goes by the mall.", 
+        "label": "neutral"
+    },
+    {
+        "text": "No  it isn't But you can transfer from this bus to bus number 24.",
+        "label": "neutral"
+    },
+    {
+        "text": "Good  How much is the fare.", 
+        "label": "neutral"
+    },
+    {
+        "text": "It's seventy-five cents for adults and thirty cents for children under twelve.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Will it cost for the transfer.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Yes  When you get on the transfer bus  just show the bus driver this ticket stub.",
+        "label": "neutral"
+    },
+    {
+        "text": "Anything else  sir.", 
+        "label": "neutral"
+    },
+    {
+        "text": "That's all for now How much do I owe you.", 
+        "label": "neutral"
+    },
+    {
+        "text": "That'll be fifty-five dollars and twenty cents.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Can't you make it a little cheaper.", 
+        "label": "neutral"
+    },
+    {
+        "text": "Oh  no sir We already gave you a discount on each item.", 
+        "label": "neutral"
+    },
+    {
+        "text": "OK I understand Thank you.",
+        "label": "neutral"
+    }
